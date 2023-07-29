@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-06-19T21:58:57 IST" name="Default suite" finished-at="2023-06-19T21:59:14 IST" duration-ms="17031">
+    <groups>
+    </groups>
+    <test started-at="2023-06-19T21:58:57 IST" name="Default test" finished-at="2023-06-19T21:59:14 IST" duration-ms="17031">
+      <class name="javaPackage1.Assert1">
+        <test-method is-config="true" signature="pub()[pri:0, instance:javaPackage1.Assert1@1e6454ec]" started-at="2023-06-19T21:58:57 IST" name="pub" finished-at="2023-06-19T21:58:57 IST" duration-ms="13" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- pub -->
+        <test-method signature="testcase1()[pri:0, instance:javaPackage1.Assert1@1e6454ec]" started-at="2023-06-19T21:58:57 IST" name="testcase1" finished-at="2023-06-19T21:59:14 IST" duration-ms="16969" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testcase1 -->
+      </class> <!-- javaPackage1.Assert1 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

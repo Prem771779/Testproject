@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Suite]" guice-stage="DEVELOPMENT">
+  <test thread-count="5" name="Test(failed)">
+    <classes>
+      <class name="javaPackage1.T7">
+        <methods>
+          <include name="setEnv"/>
+          <include name="enterData" invocation-numbers="0 1 2"/>
+        </methods>
+      </class> <!-- javaPackage1.T7 -->
+      <class name="javaPackage1.T5">
+        <methods>
+          <include name="m"/>
+          <include name="a"/>
+        </methods>
+      </class> <!-- javaPackage1.T5 -->
+    </classes>
+  </test> <!-- Test(failed) -->
+</suite> <!-- Failed suite [Suite] -->
